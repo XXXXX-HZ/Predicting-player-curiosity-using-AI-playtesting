@@ -1,4 +1,4 @@
-# Predicting-player-curiosity-using-AI-playtesting
+# Simulation-based game testing for estimating player curiosity
 Master thesis project
 
 
